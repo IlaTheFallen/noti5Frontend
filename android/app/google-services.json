@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88542767951",
+    "firebase_url": "https://noti5-641de.firebaseio.com",
+    "project_id": "noti5-641de",
+    "storage_bucket": "noti5-641de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88542767951:android:225f89b6d7e18333a8333a",
+        "android_client_info": {
+          "package_name": "com.ila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88542767951-ssdaf2l23b7sqr0jckldps7qlm35lthg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PHTSOREot2yyqQNlKUb2fOxTzqxWqtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88542767951-ssdaf2l23b7sqr0jckldps7qlm35lthg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
